@@ -44,7 +44,7 @@ criaCartao(
     'É um conjuto de valores, crenças, hábitos, normas e conhecimentos compartilhados por um grupo social.'
 )
 criaCartao(
-    'Ciências',
-    'Qual é a principal função dos glóbulos veremlhos no sangue humano?',
-    'Transportar oxigênio dos pulmões para as células do corpo através da hemoglobina.'
+    'História',
+    'Qual foi a importância da Revolução Industrial para o desenvolvimento das cidades e da sociedade no século XIX?',
+    'Foi importante porque acelerou a produção, fez crescer as cidades e mudou a forma de viver e trabalhar na sociedade do século XIX.'
 )
